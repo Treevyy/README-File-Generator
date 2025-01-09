@@ -1,36 +1,33 @@
 # a
 
-  function renderLicenseBadge(license) {
-  if (license === 'None') return '';
-  return `![License](https://img.shields.io/badge/License-${license.replace('', '%20')}-blue.svg)`
-}
+  ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
   ## Description
-  a
+  aa
 
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
   - [Tests](#tests)
-  - This application is covered under the [MIT](https://choosealicense.com/licenses/) license.
+  - [license](#license)
   - [Questions](#questions)
 
   ## Installation
-  aa
+  a
 
   ## Usage
   a
 
   ## Contributing
-  aa
+  a
 
   ## Tests
   a
 
   ## License
   
-  This project is licensed under the MIT license.
+  This project is licensed under the Apache 2.0 license.
 
   ## Questions
   If you have any additonal questions, you can contact me at:
