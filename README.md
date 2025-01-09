@@ -3,7 +3,7 @@
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description
-  To quickly create a professional  README file on the fly so I can focus more time on projects.
+  To create a professional README generator so you can focus more on your projects.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -14,16 +14,16 @@
   - [Questions](#questions)
 
   ## Installation
-  Clone the repo and run npm install to install all dependencies then run node index in the terminal to fill out the prompts.
+  Clone repo, install npm dependencies, run node index in the terminal.
 
   ## Usage
-  
+  To auto generate a README
 
   ## Contributing
-  
+  Used package inquirer to help make the prompts.
 
   ## Tests
-  
+  npm test
 
   ## License
   
@@ -31,5 +31,5 @@
 
   ## Questions
   If you have any additonal questions, you can contact me at:
-  - GitHub [](https://github.com/)
-  - Email [](mailto:)
+  - GitHub [treevyy](https://github.com/treevyy)
+  - Email [trreevvyy@gmail.com](mailto:trreevvyy@gmail.com)
