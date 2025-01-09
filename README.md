@@ -1,35 +1,35 @@
-# a
+# README Generator
 
-  ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+  ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description
-  aa
+  To quickly create a professional  README file on the fly so I can focus more time on projects.
 
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
   - [Tests](#tests)
-  - [license](#license)
+  - [License](#license)
   - [Questions](#questions)
 
   ## Installation
-  a
+  Clone the repo and run npm install to install all dependencies then run node index in the terminal to fill out the prompts.
 
   ## Usage
-  a
+  
 
   ## Contributing
-  a
+  
 
   ## Tests
-  a
+  
 
   ## License
   
-  This project is licensed under the Apache 2.0 license.
+  This project is licensed under the MIT license.
 
   ## Questions
   If you have any additonal questions, you can contact me at:
-  - GitHub [a](https://github.com/a)
-  - Email [a](mailto:a)
+  - GitHub [](https://github.com/)
+  - Email [](mailto:)
