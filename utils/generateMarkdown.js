@@ -47,8 +47,7 @@ function generateMarkdown(data) {
   ${data.usage}
 
   ## Walkthrough Video
-  Watch the walkthrough video here:
-  Link: ${data.video}
+  ${data.video}
   
   ## Contributing
   ${data.contributing}
