@@ -33,6 +33,7 @@ function generateMarkdown(data) {
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Walkthrough Video](#walkthrough-video)
   - [Contributing](#contributing)
   - [Tests](#tests)
   ${renderLicenseLink(data.license)}

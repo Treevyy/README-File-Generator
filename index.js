@@ -27,6 +27,11 @@ const questions = [
     },
     {
         type: "input",
+        name: "video",
+        message: "Provide a link to the walkthrough video:",
+    },
+    {
+        type: "input",
         name: "contributing",
         message: "What are the contribution guidelines?",
     },
