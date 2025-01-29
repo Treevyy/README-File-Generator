@@ -37,6 +37,11 @@ const questions = [
     },
     {
         type: "input",
+        name: "contributors",
+        message: "Add the names of everyone who particpated in this project:",
+    },
+    {
+        type: "input",
         name: "tests",
         message: "What are the test instructions?",
     },

@@ -35,6 +35,7 @@ function generateMarkdown(data) {
   - [Usage](#usage)
   - [Walkthrough Video](#walkthrough-video)
   - [Contributing](#contributing)
+  - [Contributors](#contributors)
   - [Tests](#tests)
   ${renderLicenseLink(data.license)}
   - [Questions](#questions)
@@ -47,6 +48,9 @@ function generateMarkdown(data) {
 
   ## Contributing
   ${data.contributing}
+
+  ## Contributors
+  ${data.contributors}
 
   ## Tests
   ${data.tests}
