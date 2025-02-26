@@ -1,9 +1,9 @@
-# Vehicle Builder
+# Weather Dashboard
 
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description
-  This project is a TypeScript command-line application that allows users to create and interact with different types of vehicles, including cars, motorbikes, and trucks. Users can choose to create a new vehicle or select an existing one, then perform various actions with the selected vehicle.
+  This Weather Dashboard application provides users with the ability to view the current and future weather conditions of multiple cities. By integrating the OpenWeather API, the application retrieves real-time weather data and displays it in an intuitive and user-friendly interface.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -16,23 +16,22 @@
   - [Questions](#questions)
 
   ## Installation
-  To install and set up the application, follow these steps: 1. Clone the repo: git clone https://github.com/Treevyy/Vehicle-Builder --- 2. Navigate to the project directory: cd vehicle-builder --- 3. Install dependencies: npm install
+  To install and set up the application, follow these steps: 1. Git clone https://github.com/Treevyy/Weather-Dashboard.git --- 2. Navigate to the project directory: cd weather-dashboard --- 3. Right click the root package.json file and click open in integrated terminal --- 4. Inside the terminal install the dependencies with the command: npm i --- 5. After dependencies are installed run the application with the command: npm run start:dev
 
   ## Usage
-  To run the application, execute the following command in your terminal: npm start then follow the prompt inside the terminal to create or select a vehicle and perform various actions.
+  Open the application in a web browser. Enter the name of a city in the search input. View the current weather conditions including: city name, date, weather icon & description, temperature, humidity, and wind speed. Will be able to view a 5-day weather forecast with: date, weather icon & description, temperature, wind speed and humidity. Click on a previously searched city from the search history to reload its weather details.
 
   ## Walkthrough Video
-  Watch the walkthrough video here:
-  Link: A demo of the application can be found at the following link:
+  A demo of the application can be found at the following link: https://drive.google.com/file/d/1gu-uWzgSxAm7zvYZarnP5vv36eEb0-IA/view
   
   ## Contributing
-  Contributions are welcome! If you would like to contribute to this project, please follow these steps: 1. Fork the repository. --- 2. Create a new branch (git checkout -b feature-branch). --- 3. Commit your changes (git commit -m 'Add new feature'). --- 4. Push to the branch (git push origin feature-branch). --- 5. Open a Pull Request.
+  Contributions are welcome! If you would like to contribute to this project, please follow these steps: 1. Fork the repository --- 2. Create a new branch (git checkout -b feature-branch). --- 3. Commit your changes (git commit -m "Add new feature"). --- 4. Push to the branch (git push origin feature-branch). --- 5. Open a Pull Request.
 
   ## Contributors
-  1. Treevyy aka Trevor Moore main contributor to the project. ---  2. Quentin Jones TA helped revised and review my code.
+  Treevyy aka Trevor Moore the main contributor to the assignment. --- 2. Quentin Jones TA --- 3. Andrea Presto TA --- 4. Joem Casusi TA --- 5. Erik Hoversten TA all of these TA's helped me revise and edit my code to function properly during office hours, and through tutoring sessions. Thank you for all your help!
 
   ## Tests
-  To run tests, use the following command: npm start
+  To run tests, use the following commands: open package.json at the root level --- 2. Open the terminal use command: npm i --- 3. In the same terminal run command: npm run start:dev
 
   ## License
   
