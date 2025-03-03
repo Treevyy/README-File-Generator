@@ -33,6 +33,8 @@
   
   ## Screenshots
   
+  <img src="drag and click photo here hold shift and drop in-between these quotes" alt="Photo discription here" width="600" style="margin-bottom: 20px;">
+
   ## Walkthrough Video
   A demo of the application can be found at the following link: 
   
