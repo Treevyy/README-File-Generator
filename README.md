@@ -19,7 +19,7 @@
   ## Installation
   To install and set up the application, follow these steps: 
 
-  1. Git clone 
+  1. Git clone: 
 
   2. Navigate to the project directory: cd 
 
