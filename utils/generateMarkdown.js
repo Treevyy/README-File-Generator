@@ -33,6 +33,7 @@ function generateMarkdown(data) {
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Screenshots](#screenshots)
   - [Walkthrough Video](#walkthrough-video)
   - [Contributing](#contributing)
   - [Contributors](#contributors)
@@ -46,6 +47,9 @@ function generateMarkdown(data) {
   ## Usage
   ${data.usage}
 
+  ## Screenshots
+  ${data.screenshots}
+  
   ## Walkthrough Video
   ${data.video}
   

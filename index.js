@@ -27,6 +27,11 @@ const questions = [
     },
     {
         type: "input",
+        name: "screenshots",
+        message: "Provide the file path to the screenshots:",
+    },
+    {
+        type: "input",
         name: "video",
         message: "Provide a link to the walkthrough video:",
     },
