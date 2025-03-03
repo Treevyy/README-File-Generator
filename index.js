@@ -37,6 +37,11 @@ const questions = [
     },
     {
         type: "input",
+        name: "link",
+        message: "Enter the URL link to deploy your application:",
+    },
+    {
+        type: "input",
         name: "contributing",
         message: "What are the contribution guidelines?",
     },

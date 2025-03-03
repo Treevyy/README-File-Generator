@@ -35,6 +35,7 @@ function generateMarkdown(data) {
   - [Usage](#usage)
   - [Screenshots](#screenshots)
   - [Walkthrough Video](#walkthrough-video)
+  - [URL Link](#url-link)
   - [Contributing](#contributing)
   - [Contributors](#contributors)
   - [Tests](#tests)
@@ -52,6 +53,9 @@ function generateMarkdown(data) {
   
   ## Walkthrough Video
   ${data.video}
+
+  ## URL Link
+  ${data.link}
   
   ## Contributing
   ${data.contributing}
