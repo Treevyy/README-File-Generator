@@ -13,7 +13,7 @@ const questions = [
     {
         type: "input",
         name: "description",
-        message: "Provide a discription of your project:",
+        message: "Provide a description of your project:",
     },
     {
         type: "input",
@@ -24,6 +24,11 @@ const questions = [
         type: "input",
         name: "usage",
         message: "What is the usage information?",
+    },
+    {
+        type: "input",
+        name: "technologies",
+        message: "What technologies were used to create this project?",
     },
     {
         type: "input",
@@ -38,7 +43,7 @@ const questions = [
     {
         type: "input",
         name: "link",
-        message: "Enter the URL link to deploy your application:",
+        message: "Enter the URL link to your deployed application:",
     },
     {
         type: "input",
