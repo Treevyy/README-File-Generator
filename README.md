@@ -27,7 +27,7 @@
 
   4. Inside the terminal install the dependencies with the command: npm i
 
-  5. After dependencies are installed run the application with the command: node index
+  5. After dependencies are installed run the application with the command: node index.js
 
   ## Usage
   To generate your README file:
@@ -66,7 +66,7 @@
   ## Tests
   Make sure the latest version of node is installed, check by using the command: node -v in your terminal
 
-  Then run the command: node index inside the terminal to test the application
+  Then run the command: node index.js inside the terminal to test the application
 
   ## License
   This project is licensed under the MIT license.
